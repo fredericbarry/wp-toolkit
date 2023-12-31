@@ -1,0 +1,6 @@
+{
+  "parser": "php",
+  "plugins": ["@prettier/plugin-php"],
+  "phpVersion": "7.4",
+  "trailingCommaPHP": false
+}
